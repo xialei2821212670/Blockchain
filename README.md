@@ -8,16 +8,7 @@ This is the source code for my post on [Building a Blockchain](https://medium.co
 
 1. Make sure [Python 3.6+](https://www.python.org/downloads/) is installed. 
 2. Install [pipenv](https://github.com/kennethreitz/pipenv). 
-
-```
-$ pip install pipenv 
-```
-3. Install requirements  
-```
-$ pipenv install 
-``` 
-
-4. Run the server:
+3. Run the server:
     * `$ python blockchain.py` 
     * `$ python blockchain.py -p 5001`
     * `$ python blockchain.py --port 5002`
